@@ -4,4 +4,4 @@
 
 Install all the Required Libraries from the given link 
 
-1. https://downloads.arduino.cc/li braries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip // Liquid Crystal I2C Library for Arduino Boards
+1. https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal_I2C-1.1.2.zip // Liquid Crystal I2C Library for Arduino Boards
